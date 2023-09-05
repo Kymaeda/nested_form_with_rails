@@ -33,3 +33,4 @@
 /vendor/bundle
 
 .env
+.irb_history
